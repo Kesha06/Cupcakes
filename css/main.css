@@ -1,0 +1,44 @@
+body {
+ background-color: rgb(238, 13, 152);
+ color: rgb(7, 245, 7);
+ margin: 0 auto;
+ padding: 0 auto;
+ }
+section{
+text-align: center;
+}
+img {
+    width: 400px;
+    height: 400px;
+}
+h1{
+  font-family:FarmBot,serif;
+}
+h2{
+ color: #e1dbe2
+}
+ h2{
+  font-size: 100px;
+ }
+h1 {
+  color: rgb(87, 226, 23)
+}
+h1 {
+  font-size:60px;
+}
+Img {
+    width: 1000px;
+    height: 400px;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+text-align: center;
+}
+P{
+    text-align: center;
+}
+p {
+ font-size: 40px;
+}
